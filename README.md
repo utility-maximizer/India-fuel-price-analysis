@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="fuelcomp.png" alt="Fuel Price Comparison" width="850">
-</p>
+![Fuel Price Comparison](fuelcomp.png)
 ## Retail Fuel Pricing Dynamics
 
 Petroleum products sit at the center of the Indian economy. Beyond personal mobility, they serve as critical operational inputs across freight logistics, power generation backups, agriculture, and manufacturing. Any upward revision in retail pump prices immediately feeds into transport freight, triggering second-round inflationary pressure across essential consumer goods. 
